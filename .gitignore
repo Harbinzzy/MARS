@@ -4,6 +4,7 @@
 !/.gitignore
 !/README.md
 !/assets/
+!/docs/
 !/cosmos-policy-final/
 !/openpi/
 !/FastWAM/
